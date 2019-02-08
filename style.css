@@ -1,0 +1,26 @@
+body {
+  background-color: rgba(104, 120, 201, 0.76)
+}
+
+#frame {
+  border: 2px solid black;
+  border-radius: 15px;
+  border-color: rgba(24, 24, 24, 0.66);
+  height: 700px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  background-color: rgb(255, 255, 255)
+}
+
+#myCanvas {
+  border: 0px solid black;
+  border-radius: 15px;
+  border-color: rgba(24, 24, 24, 0.66);
+  height: 700px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(255, 255, 255)
+}
